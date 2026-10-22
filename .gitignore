@@ -1,0 +1,8 @@
+实验一数据集/
+outputs/*.pt
+outputs/*_legacy.pt
+__pycache__/
+*.pyc
+.venv/
+venv/
+
